@@ -9,8 +9,6 @@ I like to understand systems deeply, structure complex problems, and turn ideas 
 - [AI Learning for Small Business (Anthropic)](https://academy.claude.com/verify/613f361adfa47714bb9cbe378f6a7b6a)
 - [Claude Code in Action (Anthropic)](https://academy.claude.com/verify/83e3ade4434d3099c9ef32bfb5a1d98d)
 - [PC Gamer (Carreta Digital)](https://drive.google.com/file/d/1TL8E1OhywrWTH98PNVZIaKc4F4q02OfW/view?usp=drivesdk)
-- [Brazilian Astronomy Olympiad (Student)](https://fecqfbvpifpirdjinhes.supabase.co/storage/v1/object/sign/avatars/Client%20ID/WhatsApp%20Image%202026-09-20%20at%2011.46.58.jpeg?token=eyJraWQiOiI4MDE4MTVmZC1lM2QxLTQyMmQtYjFlOS1hNjg2NTA3ZDdiZWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhdmF0YXJzL0NsaWVudCBJRC9XaGF0c0FwcCBJbWFnZSAyMDI2LTA5LTIwIGF0IDExLjQ2LjU4LmpwZWciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzg5OTE2NDE4LCJleHAiOjMxNzExODM4MDQxOH0.x9eiEoxMQOa24roOkbLzGxSt2XKxezB6es7tsZApRjU)
-- [Desafio Liga Jovem (Student)](https://fecqfbvpifpirdjinhes.supabase.co/storage/v1/object/sign/avatars/Client%20ID/WhatsApp%20Image%202026-09-20%20at%2011.54.49.jpeg?token=eyJraWQiOiI4MDE4MTVmZC1lM2QxLTQyMmQtYjFlOS1hNjg2NTA3ZDdiZWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhdmF0YXJzL0NsaWVudCBJRC9XaGF0c0FwcCBJbWFnZSAyMDI2LTA5LTIwIGF0IDExLjU0LjQ5LmpwZWciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzg5OTE2NjkxLCJleHAiOjMxNTUzNTgzODA2OTF9.t7LYjie2wXJQvrt3NVmcLJ2yFJM4s4jgQYCaM_zMYyk)
 - [Logic of Math and Programming (Cesar School)](https://drive.google.com/file/d/1fa56vQb_l_-sAb6uOiDdnNLkbberEdBp/view?usp=sharing)
   
 ### Knowledge
