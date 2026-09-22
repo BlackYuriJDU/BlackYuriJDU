@@ -9,7 +9,6 @@ I like to understand systems deeply, structure complex problems, and turn ideas 
 - [AI Learning for Small Business (Anthropic)](https://academy.claude.com/verify/613f361adfa47714bb9cbe378f6a7b6a)
 - [Claude Code in Action (Anthropic)](https://academy.claude.com/verify/83e3ade4434d3099c9ef32bfb5a1d98d)
 - [Building With Claude API (Anthropic)](https://academy.claude.com/verify/d4439fecd1cd62c90e21058ffc431c66)
-- [PC Gamer (Carreta Digital)](https://drive.google.com/file/d/1TL8E1OhywrWTH98PNVZIaKc4F4q02OfW/view?usp=drivesdk)
 - [Logic of Math and Programming (Cesar School)](https://drive.google.com/file/d/1fa56vQb_l_-sAb6uOiDdnNLkbberEdBp/view?usp=sharing)
   
 ### Knowledge
